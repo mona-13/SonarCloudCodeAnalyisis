@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=mona-13
-              -Dsonar.projectKey=SonarCloudCodeAnalyisis
+              -Dsonar.projectKey=mona-13
               -Dsonar.python.coverage.reportPaths=coverage.xml
